@@ -3,6 +3,6 @@
 ## I'm a beginner passionate frontend developer!
 
 Laguages and Tools
-![flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![flutter](https://github.com/elshanamazov/elshanamazov/blob/main/assets/html5.svg>)
 
 My Contacts
