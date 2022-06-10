@@ -5,10 +5,10 @@
 ### Laguages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=CSS)
-![JavaScript](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=JavaScript)
-![SCSS](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=SCSS)
-![GULP](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=SCSS)
-![bootstrap](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=bootstrap)
+![CSS](https://img.shields.io/badge/-CSS-0a0c09?style=for-the-badge&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JS-0a0c09?style=for-the-badge&logo=JavaScript)
+![SCSS](https://img.shields.io/badge/-SCSS-0a0c09?style=for-the-badge&logo=SCSS)
+![GULP](https://img.shields.io/badge/-GULP-0a0c09?style=for-the-badge&logo=GULP)
+![bootstrap](https://img.shields.io/badge/-bootstrap-0a0c09?style=for-the-badge&logo=bootstrap)
 
 ### My Contacts
