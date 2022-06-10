@@ -1,6 +1,8 @@
 ![Header](https://github.com/elshanamazov/elshanamazov/blob/main/assets/banner.jpg)
 
-About Me
+About Me:
+
+I'm a beginner passionate frontend developer!
 
 Laguages and Tools
 
