@@ -1,4 +1,4 @@
-![Header](https://github.com/elshanamazov/elshanamazov/blob/main/assets/bannergit.jpg)
+![Header](https://github.com/elshanamazov/elshanamazov/blob/main/assets/bggit.jpg)
 
 ## I'm a beginner passionate frontend developer!
 
