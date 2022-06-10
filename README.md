@@ -2,6 +2,6 @@
 
 ## I'm a beginner passionate frontend developer!
 
-Laguages and Tools
+## Laguages and Tools
 
-My Contacts
+## My Contacts
