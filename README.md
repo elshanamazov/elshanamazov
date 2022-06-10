@@ -2,6 +2,7 @@
 
 ## I'm a beginner passionate frontend developer!
 
-## Laguages and Tools
+Laguages and Tools
+![flutter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
-## My Contacts
+My Contacts
