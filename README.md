@@ -1,4 +1,4 @@
-![Header](https://github.com/elshanamazov/elshanamazov/blob/main/assets/banner.png)
+![Header](https://github.com/elshanamazov/elshanamazov/blob/main/assets/banner.jpg)
 
 About Me
 
