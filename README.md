@@ -11,11 +11,10 @@
 ![GULP](https://img.shields.io/badge/-GULP-0a0c09?style=for-the-badge&logo=GULP)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-0a0c09?style=for-the-badge&logo=bootstrap)
 
+<hr>
 ### My Contacts
 
 #### Mail - elshanamazov@gmail.com
-
-<hr>
 
 #### [![Instagram](https://img.shields.io/badge/-instagram-0a0c09?style=for-the-badge&logo=instagram)](https://www.instagram.com/els_v94/)
 
