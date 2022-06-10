@@ -4,4 +4,6 @@
 
 ### Laguages and Tools
 
+![HTML](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=html)
+
 ### My Contacts
