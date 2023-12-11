@@ -2,7 +2,7 @@
 
 <div>
   <p><b>A self-taught frontend developer </b></p>
-  <p><b>I'm looking for a job</b></p>
+  <p><b>Currently on the lookout for new opportunities.</b></p>
 </div>
 <hr>
 
