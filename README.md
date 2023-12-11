@@ -16,7 +16,9 @@
 
 ### My Contacts
 
-#### Mail - elshanamazov@gmail.com
+📧 ####Email: elshanamazov@gmail.com
+
+📸 ####Instagram:https://www.instagram.com/els_v94/
 
 #### [![Instagram](https://img.shields.io/badge/-instagram-0a0c09?style=for-the-badge&logo=instagram)](https://www.instagram.com/els_v94/)
 
