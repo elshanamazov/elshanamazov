@@ -1,4 +1,4 @@
-![Header](https://github.com/elshanamazov/elshanamazov/blob/main/assets/bggit.jpg)
+<h1>Hi, there. I’m Elshan Namazov 👋</h1>
 
 ## I'm a beginner passionate frontend developer!
 
