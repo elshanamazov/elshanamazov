@@ -20,4 +20,3 @@
 
 #### [![Instagram](https://img.shields.io/badge/-instagram-0a0c09?style=for-the-badge&logo=instagram)](https://www.instagram.com/els_v94/)
 
-#### Linkedin - later
