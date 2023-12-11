@@ -18,6 +18,5 @@
 
 📧 Email: elshanamazov@gmail.com
 
-📸 Instagram:https://www.instagram.com/els_v94/
 
 
