@@ -14,9 +14,11 @@
 ![Sass](https://img.shields.io/badge/-SCSS-0a0c09?style=for-the-badge&logo=Sass)
 ![GULP](https://img.shields.io/badge/-GULP-0a0c09?style=for-the-badge&logo=GULP)
 
-### My Contacts
-
-📧 Email: elshanamazov@gmail.com
+<div>
+  <h3>🤝 Connect with me:</h3>
+  <h4>Telegram: <a href=https://t.me/elshanamazov>@elshanamazov</a></h4>                                                                                                           
+  <h4>E-Mail: <a href="mailto:elshanamazov@gmail.com">elshanamazov@gmail.com</a></h4>                                                                                            
+</div>
 
 
 
