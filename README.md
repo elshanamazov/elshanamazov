@@ -1,6 +1,9 @@
 <h1>Hi, there. I’m Elshan Namazov 👋</h1>
 
-## I'm a beginner passionate frontend developer!
+<div>
+  <p><b>I am a frontend-developer</b></p>
+  <p><b>I'm looking for a job</b></p>
+</div>
 
 ### Laguages and Tools
 
