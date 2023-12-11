@@ -1,7 +1,7 @@
 <h1>Hi, there. I’m Elshan Namazov 👋</h1>
 
 <div>
-  <p><b>I am a frontend-developer</b></p>
+  <p><b>A self-taught frontend developer </b></p>
   <p><b>I'm looking for a job</b></p>
 </div>
 <hr>
