@@ -6,7 +6,7 @@
 </div>
 <hr>
 
-### Laguages and Tools
+### Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-0a0c09?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0a0c09?style=for-the-badge&logo=CSS3)
