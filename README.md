@@ -1,8 +1,7 @@
 <h1>Hi, there. I’m Elshan Namazov 👋</h1>
 
 <div>
-  <p><b>Frontend Developer</b></p>
-  <p><b>Currently on the lookout for new opportunities.</b></p>
+  <p><b>Software Engineer</b></p>
 </div>
 <hr>
 
