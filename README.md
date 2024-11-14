@@ -34,5 +34,6 @@
 <div>
   <h3>🤝 My contacts:</h3>
   <h4>Telegram: <a href=https://t.me/elshanamazov>@elshanamazov</a></h4>                                                                                                           
-  <h4>E-Mail: <a href="mailto:elshanamazov@gmail.com">elshanamazov@gmail.com</a></h4>                                                                                            
+  <h4>E-Mail: <a href="mailto:elshanamazov@gmail.com">elshanamazov@gmail.com</a></h4>
+  <h4>E-Mail: <a href="https://www.linkedin.com/in/elshanamazov">Linkedin</a></h4>
 </div>
